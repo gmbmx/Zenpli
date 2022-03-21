@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+message rawdata {
+    string key_1 = 1;
+    string date_2 = 2;
+    string cont_3 = 3;
+    string cont_4 = 4;
+    string disc_5 = 5;
+    string disc_6 = 6;
+    string cat_7 = 7;
+    string cat_8 = 8;
+    string cont_9 = 9;
+    string cont_10 = 10;
+}

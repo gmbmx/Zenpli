@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+message data {
+    string key_1 = 1;
+    string date_2 = 2;
+    float cont_3 = 3;
+    float cont_4 = 4;
+    int64 disc_5 = 5;
+    float disc_6 = 6;
+    string cat_7 = 7;
+    string cat_8 = 8;
+    float cont_9 = 9;
+    float cont_10 = 10;
+}
